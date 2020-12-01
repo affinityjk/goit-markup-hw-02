@@ -198,6 +198,7 @@ img {
 
 .site-nav.list a,
 .header-address .link {
+  color: var(--primary-text-color);
   background-color: var(--primary-white-color);
 
   font-family: var(--main-font);
@@ -222,7 +223,6 @@ img {
 .header-address .link {
   color: var(--secondary-text-color);
 }
-
 /* Hero */
 .hero .container {
   display: flex;
