@@ -223,6 +223,7 @@ img {
 .header-address .link {
   color: var(--secondary-text-color);
 }
+
 /* Hero */
 .hero .container {
   display: flex;
